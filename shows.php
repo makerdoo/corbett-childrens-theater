@@ -18,7 +18,7 @@ include('incl/header.php'); ?>
 ############################################################################################-->		
 		<div class="container">
 		<br>
-			<div class="large-10 medium-10 small-10 columns medium-centered large-centered small-centered panel group" style="border: 1px double #333;">
+			<div class="large-8 medium-10 small-10 columns medium-centered large-centered small-centered panel group" style="border: 1px double #333;">
         		<div class="small-12 medium-8 large-6 small-centered columns group"><a href="img/uCantTakeIt/ucant-set-dark-sm.jpg" data-reveal-id="myModal"><img src="img/uCantTakeIt/ucant-set-dark-sm.jpg" alt="Upcoming Poster" id="upcoming-poster"></a>
 
 						<div id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">

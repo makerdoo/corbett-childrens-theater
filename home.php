@@ -32,7 +32,7 @@ include('incl/header.php'); ?>
 						</ul>
 						<hr class="drk-blue">
                     </div>
-		    <!--###########################two##################################-->        
+		    <!--###########################  two  ##################################-->        
 					<br>
 					<br>
 					<div class="small-12 medium-12 large-4 columns bordered group" data-equalizer-watch>
@@ -41,7 +41,10 @@ include('incl/header.php'); ?>
 							<img class="centered-img" src="img/seussical-sm.jpg" alt="Seussical the Musical Banner">
 							<br>
 						<h3 class="boom underline">Seussical The Musical!</h3>
-							<h4>A strange and fantastic red-and-white striped top hat appears on an empty stage, full of possibilities.<br><br> A Boy enters and is drawn toward the magical hat.<br><br> The Cat in the Hat suddenly materializes! <span style="color:rgb(0, 25, 255)">[...]</span></h4></a>	      			
+							<h4>A strange and fantastic red-and-white striped top hat appears on an empty stage, full of possibilities.<br><br> A Boy enters and is drawn toward the magical hat.<br><br> The Cat in the Hat suddenly materializes!
+							<br>
+							<br>
+							<span style="color:rgb(80, 215, 254)">[...]</span></h4></a>	      			
 			    		
 						<br>	
 					</div>
@@ -63,7 +66,7 @@ include('incl/header.php'); ?>
 		      			<h4>If you have time and skills (or a desire to learn) we can use you,<br> adult or student!  Volunteer to help with a production...
 		      			<br>
 		      			<br>
-		      			<br><span style="color:rgb(0, 25, 255)">[learn more]</span></h4></a>
+		      			<br><span style="color:rgb(80, 215, 254)">[learn more]</span></h4></a>
 			    		<hr class="drk-blue">
 					</div>
 
@@ -99,9 +102,8 @@ include('incl/header.php'); ?>
             <div class="row" data-equalizer>
             	<div class="small-12 medium-4 large-4 columns">
             		<div class="panel" data-equalizer-watch style="text-align:center;">
-			      		<br>
-						<h3>CCT is committed to</h3>
-						
+			      		<h2>CCT is committed to</h2>
+											
 							<h3><a href="#" data-reveal-id="myModal-nurt">Nurturing</a></h3>
 							<div id="myModal-nurt" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 								<h1>Nurturing</h1>
@@ -134,8 +136,8 @@ include('incl/header.php'); ?>
 							<h3><a href="#" data-reveal-id="myModal-dev">Developing</a></h3>
 							<div id="myModal-dev" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 								<h1>Developing</h1>
-                         <p>What do theatre kids learn? You might be surprised to learn that the primary things kids learn in a children’s theater are life skills like Teamwork, Problem Solving, Focus, and the Ability to Meet Deadlines.  Sure they learn to sing, dance, and act, and those are useful skills, but the ability to think on your feet and confidently face a room full of people are skills that every individual can benefit from.</p>
-                         <p>Think of it this way; in the theatre a performer is portraying a character who reacts differently from the way they naturally react to the same stimuli and they have to do it with a roomful of people watching them, while knowing the director is evaluating their performance and at the same time that they can see the chaos that is taking place backstage while...</p>
+                         <p>What do theater kids learn? You might be surprised to learn that the primary things kids learn in a children’s theater are life skills like Teamwork, Problem Solving, Focus, and the Ability to Meet Deadlines.  Sure they learn to sing, dance, and act, and those are useful skills, but the ability to think on your feet and confidently face a room full of people are skills that every individual can benefit from.</p>
+                         <p>Think of it this way; in the theater a performer is portraying a character who reacts differently from the way they naturally react to the same stimuli and they have to do it with a roomful of people watching them, while knowing the director is evaluating their performance and at the same time that they can see the chaos that is taking place backstage while...</p>
                          <h2>More About What CCT Youth Learn Coming Soon</h2>
 								<a class="close-reveal-modal" aria-label="Close">&#215;</a>
 						    </div>
@@ -151,7 +153,9 @@ include('incl/header.php'); ?>
 								<a class="close-reveal-modal" aria-label="Close">&#215;</a>
 						    </div>
 						    
-							<h4>the youth of Eastern Multnomah county.  Click above to learn more about how CCT uses the theatre to develop the youth of our community.</h4>
+							<h4>the youth of Eastern Multnomah county.</h4>
+							
+							<p>Click above to learn more about how CCT uses the theatre to develop the youth of our community.</p>
 		                
 		            </div>    
             	</div>
@@ -167,10 +171,13 @@ include('incl/header.php'); ?>
 						
 		                  CCT is staffed 100% by volunteers who give their time for the benefit of the kids. We strive to provide a safe place for the youth of east county to stretch their wings in all areas of the theatre arts, reqardless of who they are or where they come from...
 		                </p>
+             			<h3><a href="learn-more.php" class="boom" target="_self" style="text-align:center;"><span style="color:rgb(80, 215, 254)">Learn More</span></a></h3>
+		                <h3>Help Provide Opportunities for the Youth of Eastern Multnomah County.</h3>
+		                <br />
+		                <a href='https://www.givlet.org/donate/e0gi/' class='on-checkout'> <img src='https://ordernow_prod.s3.amazonaws.com/img/TheGivletButton.png' /> </a> <script type='text/javascript' src='https://ordernow_prod.s3.amazonaws.com/js/givlet-widget-latest.js'> </script>
 		                <br>
-		                <h3>Help Provide Opportunities for the Youth of Eastern Multnomah County</h3>
-		                <br>
-		                <a href="http://www.brownpapertickets.com/event/989794" class="button" target="_blank" style="text-align-center">Help Support the Kids</a>
+		                
+		                
 		            </div>    
 				</div>
 			</div>

@@ -17,7 +17,7 @@ include('incl/header.php'); ?>
 ##############################  insert rows and columns  ###################################
 ############################################################################################-->		
 		
-			<div class ="breadcrumb"><a href="index.php">Home</a> &gt; <a href="shows.php">Shows</a> &gt; Gallery</div>	
+			<div class ="breadcrumb"><a href="home.php">Home</a> &gt; <a href="shows.php">Shows</a> &gt; Gallery</div>	
 			<br>
 			<div class="small-10 small-centered medium-10 large-8 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-4" data-clearing>

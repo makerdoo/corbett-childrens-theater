@@ -14,15 +14,15 @@ include('../incl/header-2.php'); ?>
 			</header>
 	</div> -->
 		<div class="container">
-			<div class ="breadcrumb"><a href="../index.php">Home</a> &gt; <a href="../past-shows.php">Past Shows</a> &gt; Our Town</div>
-            
+			<div class ="breadcrumb"><a href="../home.php">Home</a> &gt; <a href="../pastShows.php">Past Shows</a> &gt; Our Town</div>
+            <br>
 <!--########################################################################################
 ##############################  insert rows and columns  ###################################
 ############################################################################################-->		
 
 			<div class="row boom" data-equalizer>
 				<div class="small-12 small-centered medium-8 large-10 large-centered columns group" data-equalizer-watch>
-					<ul class="clearing-thumbs" data-orbit data-options="animation:slide;slide_number:false;pause_on_hover:true;resume_on_mouseout:true,animation_speed:25;navigation_arrows:true;stack_on_small:true;bullets:true;variable_height:true;swipe:true;">
+					<ul class="clearing-thumbs" data-orbit data-options="animation:slide;slide_number:false;pause_on_hover:true;resume_on_mouseout:true,animation_speed:3;navigation_arrows:true;stack_on_small:true;bullets:true;variable_height:true;swipe:true;">
 						<li><img src="../img/posters/ourtown.jpg" style="width:50%;height:auto;margin: 0 auto;" alt="Our Town cast photo" title="Our Town"></li>
 						<li><img src="../img/OurTown/OurTown-00.jpg" alt="No Crime Like Our Town" title="OurTown"></li>
 				  		<li><img src="../img/OurTown/OurTown-13.jpg" alt="No Crime Like Our Town" title="OurTown"></li>

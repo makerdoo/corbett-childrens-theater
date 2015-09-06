@@ -14,7 +14,11 @@
 				<div class="contact-icons-text">
 						<p><a href="mailto:info@corbettchildrenstheater.com" title="Send us an email">Corbett Children's Theater | Creating Character Together</a><br>PO Box 133, Corbett, OR 97019 | 971-271-3255<br>&copy;<?php echo date('Y'); ?> All Rights Reserved</p>
 				</div>
-				
+				<!--
+				<div class="small-6 columns group right end">
+						<a href="img/QRcode.svg"><img src="img/QRcode.svg" title="Donate!" alt="Help the Kids!"></a>
+				</div>
+				-->
 		</footer>
   		<script src="js/vendor/jquery.js"></script>
 		<script src="js/vendor/fastclick.js"></script>

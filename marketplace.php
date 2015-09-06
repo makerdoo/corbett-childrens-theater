@@ -13,7 +13,7 @@ include('incl/header.php'); ?>
         
       </header>
     </div>        
-    <div class ="breadcrumb"><a href="index.php">Home</a> &gt; Marketplace</div>
+    <div class ="breadcrumb"><a href="home.php">Home</a> &gt; Marketplace</div>
     <div class="row">
       <div class="small-12 columns centered">
         <h1 class="boom">Corbett Children's Theater Marketplace</h1>

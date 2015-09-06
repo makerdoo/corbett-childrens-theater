@@ -44,7 +44,7 @@
 								<li class="has-dropdown"><a href="../shows.php" <?=echoSelectedClassIfRequestMatches("shows")?>><h3>Shows |&nbsp;</h3></a>
 									<ul class="dropdown">
 										<!--<li><a href="upcoming.php" <?=echoSelectedClassIfRequestMatches("upcoming")?>><h4>Upcoming Season&nbsp;</h4></a></li>-->
-										<li><a href="../past-shows.php" <?=echoSelectedClassIfRequestMatches("past-shows")?>><h4>Past Shows </h4></a></li>
+										<li><a href="../pastShows.php" <?=echoSelectedClassIfRequestMatches("pastShows")?>><h4>Past Shows </h4></a></li>
 										<!--<li><a href="gallery.php" <?=echoSelectedClassIfRequestMatches("gallery")?>><h4>Gallery </h4></a></li>-->
 									</ul>
 								</li>

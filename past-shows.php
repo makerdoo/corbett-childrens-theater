@@ -14,7 +14,7 @@ include('incl/header.php'); ?>
 			</header>
 		</div>
 		<div class="container">
-		<div class ="breadcrumb"><a href="index.php">Home</a> &gt; <a href="shows.php">Shows</a> &gt; Past Shows</div>
+			<div class ="breadcrumb"><a href="home.php">Home</a> &gt; <a href="shows.php">Shows</a> &gt; Past Shows</div>
             
 <!--########################################################################################
 ##############################  insert rows and columns  ###################################
@@ -30,9 +30,9 @@ include('incl/header.php'); ?>
 			</div>
 			
 			<div class="row" data-equalizer>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img"><a href="img/posters/ourtown.jpg"><img src="img/posters/ourtown-th.jpg" alt="Our Town cast photo" title="Our Town"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/ourtown.jpg"><img src="img/posters/ourtown-th.jpg" alt="Our Town cast photo" title="Our Town"></a></li>
 						<li><a href="img/OurTown/OurTown-00.jpg"><img src="img/OurTown/OurTown-00.jpg" alt="No Crime Like Our Town" title="OurTown"></a></li>
 				  		<li><a href="img/OurTown/OurTown-13.jpg"><img src="img/OurTown/OurTown-13.jpg" alt="No Crime Like Our Town" title="OurTown"></a></li>
 				  		<li><a href="img/OurTown/OurTown-22.jpg"><img src="img/OurTown/OurTown-22.jpg" alt="No Crime Like Our Town" title="OurTown"></a></li>
@@ -50,9 +50,9 @@ include('incl/header.php'); ?>
 
 				  	</ul>
 				</div>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img"><a href="img/posters/everOz.jpg"><img src="img/posters/everOz-th.jpg" alt="Ever After Oz" title="Ever After Oz"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/everOz.jpg"><img src="img/posters/everOz-th.jpg" alt="Ever After Oz" title="Ever After Oz"></a></li>
 						<li><a href="img/everOz/everOz1.jpg"><img src="img/everOz/everOz1-th.jpg" alt="Ever After Oz"></a></li>
 						<li><a href="img/everOz/everOz2.jpg"><img src="img/everOz/everOz2-th.jpg" alt="Ever After Oz"></a></li>
 						<li><a href="img/everOz/everOz3.jpg"><img src="img/everOz/everOz3-th.jpg" alt="Ever After Oz"></a></li>
@@ -78,9 +78,9 @@ include('incl/header.php'); ?>
 						<li><a href="img/everOz/everOz25.jpg"><img src="img/everOz/everOz25-th.jpg" alt="Ever After Oz"></a></li>
 					</ul>
 				</div>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img"><a href="img/posters/byebird.jpg"><img src="img/posters/byebird-th.jpg" alt="Bye Bye Birdie" title="Bye Bye Birdie"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/byebird.jpg"><img src="img/posters/byebird-th.jpg" alt="Bye Bye Birdie" title="Bye Bye Birdie"></a></li>
 						<li><a href="img/byeBirdie/byeBirdie(1).jpg"><img src="img/byeBirdie/byeBirdie(1)-th.jpg" alt="Bye Bye Birdie"></a></li>
 						<li><a href="img/byeBirdie/byeBirdie(2).jpg"><img src="img/byeBirdie/byeBirdie(2)-th.jpg" alt="Bye Bye Birdie"></a></li>
 						<li><a href="img/byeBirdie/byeBirdie(3).jpg"><img src="img/byeBirdie/byeBirdie(3)-th.jpg" alt="Bye Bye Birdie"></a></li>
@@ -101,9 +101,9 @@ include('incl/header.php'); ?>
 						<li><a href="img/byeBirdie/byeBirdie(18).jpg"><img src="img/byeBirdie/byeBirdie(18)-th.jpg" alt="Bye Bye Birdie"></a></li>
 					</ul>
 				</div>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img"><a href="img/posters/CCTpresentsMillie.jpg"><img src="img/posters/CCTpresentsMillie-th.jpg" alt="Thoroughly Modern Millie" title="Thoroughly Modern Millie"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/CCTpresentsMillie.jpg"><img src="img/posters/CCTpresentsMillie-th.jpg" alt="Thoroughly Modern Millie" title="Thoroughly Modern Millie"></a></li>
 						<li><a href="img/Millie/millie(1)(1280x851).jpg"><img src="img/Millie/millie(1)-th.jpg" alt="Thoroughly Modern Millie"></a></li>
 						<li><a href="img/Millie/millie(2)(1280x851).jpg"><img src="img/Millie/millie(2)-th.jpg" alt="Thoroughly Modern Millie"></a></li>
 						
@@ -122,9 +122,9 @@ include('incl/header.php'); ?>
 						<li><a href="img/Millie/millie(16)(1280x851).jpg"><img src="img/Millie/millie(16)-th.jpg" alt="Thoroughly Modern Millie"></a></li>
 					</ul>
 				</div>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img"><a href="img/posters/AliceposterWeb.jpg"><img src="img/posters/AliceposterWeb-th.jpg" alt="Alice In Wonderland" title="Alice In Wonderland"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/AliceposterWeb.jpg"><img src="img/posters/AliceposterWeb-th.jpg" alt="Alice In Wonderland" title="Alice In Wonderland"></a></li>
 						<li><a href="img/alice/alice(1)1280x851.jpg"><img src="img/alice/alice(1)-th.jpg" alt="Alice In Wonderland"></a></li>
 						<li><a href="img/alice/alice(2)1280x851.jpg"><img src="img/alice/alice(2)-th.jpg" alt="Alice In Wonderland"></a></li>
 						<li><a href="img/alice/alice(3)1280x851.jpg"><img src="img/alice/alice(3)-th.jpg" alt="Alice In Wonderland"></a></li>
@@ -144,9 +144,9 @@ include('incl/header.php'); ?>
 					
 					</ul>
 				</div>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img"><a href="img/posters/shiver.jpg"><img src="img/posters/shiver-th.jpg" alt="The Treasure of Shiver River" title="The Treasure of Shiver River"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/shiver.jpg"><img src="img/posters/shiver-th.jpg" alt="The Treasure of Shiver River" title="The Treasure of Shiver River"></a></li>
 						<li><a href="img/ShiverRiver/shiverRiver(1).jpg"><img src="img/ShiverRiver/shiverRiver(1)-th.jpg" alt="The Treasure of Shiver River"></a></li>
 						<li><a href="img/ShiverRiver/shiverRiver(2).jpg"><img src="img/ShiverRiver/shiverRiver(2)-th.jpg" alt="The Treasure of Shiver River"></a></li>
 						<li><a href="img/ShiverRiver/shiverRiver(3).jpg"><img src="img/ShiverRiver/shiverRiver(3)-th.jpg" alt="The Treasure of Shiver River"></a></li>
@@ -173,9 +173,9 @@ include('incl/header.php'); ?>
 			<div class="row" data-equalizer>
 
 				
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img"><a href="img/posters/AnniePoster.jpg"><img src="img/posters/AnniePoster-th.jpg" alt="Annie" title="Annie"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/AnniePoster.jpg"><img src="img/posters/AnniePoster-th.jpg" alt="Annie" title="Annie"></a></li>
 						<li><a href="img/annie/annie(1).jpg"><img src="img/annie/annie(1)-th.jpg" alt="Annie"></a></li>
 						<li><a href="img/annie/annie(3).jpg"><img src="img/annie/annie(3)-th.jpg" alt="Annie"></a></li>
 						<li><a href="img/annie/annie(4).jpg"><img src="img/annie/annie(4)-th.jpg" alt="Annie"></a></li>
@@ -195,33 +195,10 @@ include('incl/header.php'); ?>
 						<li><a href="img/annie/annie(18).jpg"><img src="img/annie/annie(18)-th.jpg" alt="Annie"></a></li>
 					</ul>
 				</div>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img boom"><a href="img/posters/flowers.jpg"><img src="img/posters/flowers-th.jpg" alt="Flowers For Algernon" title="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(1).jpg"><img src="img/flowersForAlgernon/flowers(1)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(2).jpg"><img src="img/flowersForAlgernon/flowers(2)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(3).jpg"><img src="img/flowersForAlgernon/flowers(3)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(4).jpg"><img src="img/flowersForAlgernon/flowers(4)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(5).jpg"><img src="img/flowersForAlgernon/flowers(5)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(6).jpg"><img src="img/flowersForAlgernon/flowers(6)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(7).jpg"><img src="img/flowersForAlgernon/flowers(7)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(8).jpg"><img src="img/flowersForAlgernon/flowers(8)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(9).jpg"><img src="img/flowersForAlgernon/flowers(9)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(10).jpg"><img src="img/flowersForAlgernon/flowers(10)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(11).jpg"><img src="img/flowersForAlgernon/flowers(11)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(12).jpg"><img src="img/flowersForAlgernon/flowers(12)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(13).jpg"><img src="img/flowersForAlgernon/flowers(13)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(14).jpg"><img src="img/flowersForAlgernon/flowers(14)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(15).jpg"><img src="img/flowersForAlgernon/flowers(15)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(16).jpg"><img src="img/flowersForAlgernon/flowers(16)-th.jpg" alt="Flowers For Algernon"></a></li>
-						<li><a href="img/flowersForAlgernon/flowers(17).jpg"><img src="img/flowersForAlgernon/flowers(17)-th.jpg" alt="Flowers For Algernon"></a></li>
 						
-						
-					</ul>
-				</div>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
-					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img"><a href="img/posters/Anne-posterWeb.jpg"><img src="img/posters/Anne-posterWeb-th.jpg" alt="Anne of Green Gables" title="Anne of Green Gables"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/Anne-posterWeb.jpg"><img src="img/posters/Anne-posterWeb-th.jpg" alt="Anne of Green Gables" title="Anne of Green Gables"></a></li>
 						<li><a href="img/anneOfGreen/anneofGreen(1).jpg"><img src="img/anneOfGreen/anneofGreen(1)-th.jpg" alt="Anne of Green Gables"></a></li>
 						<li><a href="img/anneOfGreen/anneofGreen(2).jpg"><img src="img/anneOfGreen/anneofGreen(2)-th.jpg" alt="Anne of Green Gables"></a></li>
 						<li><a href="img/anneOfGreen/anneofGreen(3).jpg"><img src="img/anneOfGreen/anneofGreen(3)-th.jpg" alt="Anne of Green Gables"></a></li>
@@ -245,13 +222,38 @@ include('incl/header.php'); ?>
 						<li><a href="img/anneOfGreen/anneofGreen(21).jpg"><img src="img/anneOfGreen/anneofGreen(21)-th.jpg" alt="Anne of Green Gables"></a></li>
 						<li><a href="img/anneOfGreen/anneofGreen(22).jpg"><img src="img/anneOfGreen/anneofGreen(22)-th.jpg" alt="Anne of Green Gables"></a></li>
 						<li><a href="img/anneOfGreen/anneofGreen(23).jpg"><img src="img/anneOfGreen/anneofGreen(23)-th.jpg" alt="Anne of Green Gables"></a></li>
+					
+						
 					</ul>
 				</div>
-			
-				
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img"><a href="img/posters/SOM.jpg"><img src="img/posters/SOM-th.jpg" alt="The Sound of Music" title="The Sound of Music"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/flowers.jpg"><img src="img/posters/flowers-th.jpg" alt="Flowers For Algernon" title="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(1).jpg"><img src="img/flowersForAlgernon/flowers(1)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(2).jpg"><img src="img/flowersForAlgernon/flowers(2)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(3).jpg"><img src="img/flowersForAlgernon/flowers(3)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(4).jpg"><img src="img/flowersForAlgernon/flowers(4)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(5).jpg"><img src="img/flowersForAlgernon/flowers(5)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(6).jpg"><img src="img/flowersForAlgernon/flowers(6)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(7).jpg"><img src="img/flowersForAlgernon/flowers(7)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(8).jpg"><img src="img/flowersForAlgernon/flowers(8)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(9).jpg"><img src="img/flowersForAlgernon/flowers(9)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(10).jpg"><img src="img/flowersForAlgernon/flowers(10)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(11).jpg"><img src="img/flowersForAlgernon/flowers(11)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(12).jpg"><img src="img/flowersForAlgernon/flowers(12)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(13).jpg"><img src="img/flowersForAlgernon/flowers(13)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(14).jpg"><img src="img/flowersForAlgernon/flowers(14)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(15).jpg"><img src="img/flowersForAlgernon/flowers(15)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(16).jpg"><img src="img/flowersForAlgernon/flowers(16)-th.jpg" alt="Flowers For Algernon"></a></li>
+						<li><a href="img/flowersForAlgernon/flowers(17).jpg"><img src="img/flowersForAlgernon/flowers(17)-th.jpg" alt="Flowers For Algernon"></a></li>
+						
+						</ul>
+				</div>
+			</div>
+			<div class="row" data-equalizer>	
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
+					<ul class="clearing-thumbs clearing-feature centered boom" data-clearing>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/SOM.jpg"><img src="img/posters/SOM-th.jpg" alt="The Sound of Music" title="The Sound of Music"></a></li>
 						<li><a href="img/SoundofMusic/SOM(1).jpg"><img src="img/SoundofMusic/SOM(1)-th.jpg" alt="The Sound of Music"></a></li>
 						<li><a href="img/SoundofMusic/SOM(2).jpg"><img src="img/SoundofMusic/SOM(2)-th.jpg" alt="The Sound of Music"></a></li>
 						<li><a href="img/SoundofMusic/SOM(3).jpg"><img src="img/SoundofMusic/SOM(3)-th.jpg" alt="The Sound of Music"></a></li>
@@ -262,9 +264,9 @@ include('incl/header.php'); ?>
 						<li><a href="img/SoundofMusic/SOM(8).jpg"><img src="img/SoundofMusic/SOM(8)-th.jpg" alt="The Sound of Music"></a></li>
 					</ul>
 				</div>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
-					<ul class="clearing-thumbs clearing-feature" data-clearing>
-					    <li class= "clearing-featured-img"><a href="img/posters/u-cant-full.jpg"><img src="img/posters/u-cant-th.jpg" alt="You Can't Take It With You cast photo" title="You Can't Take It With You"></a></li>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
+					<ul class="clearing-thumbs clearing-feature centered boom" data-clearing>
+					    <li class= "clearing-featured-img centered boom"><a href="img/posters/u-cant-full.jpg"><img src="img/posters/u-cant-th.jpg" alt="You Can't Take It With You cast photo" title="You Can't Take It With You"></a></li>
 					    <li><a href="img/cast-photos/u-cant-castphoto.jpg"><img src="img/cast-photos/u-cant-castphoto.jpg" alt="You Can't Take It With You cast photo" title="You Can't Take It With You"></a></li>
 						<li><a href="img/uCantTakeIt/ucant-01.jpg"><img class="centered" src="img/uCantTakeIt/ucant-01.jpg" alt="The stage darkens" title="You Can't Take It With You"></a></li>
 						<li><a href="img/uCantTakeIt/ucant-02.jpg"><img class="centered" src="img/uCantTakeIt/ucant-02.jpg" alt="The stage darkens" title="You Can't Take It With You"></a></li>
@@ -275,9 +277,9 @@ include('incl/header.php'); ?>
 						<li><a href="img/uCantTakeIt/ucant-05.jpg"><img class="centered" src="img/uCantTakeIt/ucant-05.jpg" alt="The stage darkens" title="You Can't Take It With You"></a></li>
 					</ul>
 				</div>
-				<div class="small-6 medium-4 large-2 columns group" data-equalizer-watch>
+				<div class="small-12 medium-4 large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-					  <li class="clearing-featured-img"><a href="img/posters/MusicManPoster.jpg"><img src="img/posters/MusicManPoster-th.jpg" alt="The Music Man Poster-Bill" title="The Music Man"></a></li>
+					  <li class="clearing-featured-img centered boom"><a href="img/posters/MusicManPoster.jpg"><img src="img/posters/MusicManPoster-th.jpg" alt="The Music Man Poster-Bill" title="The Music Man"></a></li>
 					  <li><a href="img/cast-photos/musicman-castphoto.jpg"><img src="img/cast-photos/musicman-castphoto.jpg" alt="The Music Man cast photo" title="The Music Man"></a></li>
 					  <li><a href="img/musicMan/musicman-01.jpg"><img src="img/musicMan/musicman-01-th.jpg" alt="The stage darkens" title="The Music Man"></a></li>
 					  <li><a href="img/musicMan/musicman-02.jpg"><img src="img/musicMan/musicman-02-th.jpg" alt="The stage darkens" title="The Music Man"></a></li>
@@ -288,17 +290,16 @@ include('incl/header.php'); ?>
 					  <li><a href="img/musicMan/musicman-08.jpg"><img src="img/musicMan/musicman-08-th.jpg" alt="The stage darkens" title="The Music Man"></a></li>
 					  <li><a href="img/musicMan/musicman-09.jpg"><img src="img/musicMan/musicman-09-th.jpg" alt="The stage darkens" title="The Music Man"></a></li>
 					  <li><a href="img/musicMan/musicman-10.jpg"><img src="img/musicMan/musicman-10-th.jpg" alt="The stage darkens" title="The Music Man"></a></li>
-					  
+					 
 					</ul>
-				</div>
-				
+				</div>				
 			</div>
+			
+			<div class="row" data-equalizer>
 
-			<div class="row boom" data-equalizer>
-
-				<div class="small-12 medium-4 large-4 small-centered medium-uncentered large-uncentered columns group" data-equalizer-watch>
+				<div class="small-12 small-centered medium-4 medium-uncentered large-uncentered large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img boom"><a href="img/posters/Outsiders.jpg"><img src="img/posters/Outsiders-th.jpg" alt="The Outsiders" title="The Outsiders"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/Outsiders.jpg"><img src="img/posters/Outsiders-th.jpg" alt="The Outsiders" title="The Outsiders"></a></li>
 						<li><a href="img/Outsiders/outsiders(1).jpg"><img src="img/Outsiders/outsiders(1)-th.jpg" alt="The Outsiders"></a></li>
 						<li><a href="img/Outsiders/outsiders(2).jpg"><img src="img/Outsiders/outsiders(2)-th.jpg" alt="The Outsiders"></a></li>
 						<li><a href="img/Outsiders/outsiders(3).jpg"><img src="img/Outsiders/outsiders(3)-th.jpg" alt="The Outsiders"></a></li>
@@ -317,15 +318,17 @@ include('incl/header.php'); ?>
 						
 					</ul>
 				</div>
-				<div class="small-12 medium-4 large-4 small-centered medium-uncentered large-uncentered columns group" data-equalizer-watch>
+				
+				<div class="small-12 small-centered medium-4 medium-uncentered large-uncentered large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-					  <li class="clearing-featured-img boom"><a href="img/posters/SchoolHouseRockLivePoster.jpg"><img src="img/posters/SchoolHouseRockLivePoster-th.jpg" alt="Schoolhouse Rock Live" title="School House Rock Live"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/SchoolHouseRockLivePoster.jpg"><img src="img/posters/SchoolHouseRockLivePoster-th.jpg" alt="Schoolhouse Rock Live" title="School House Rock Live"></a></li>
 					  
 					</ul>
 				</div>
-				<div class="small-12 medium-4 large-4 small-centered medium-uncentered large-uncentered columns group" data-equalizer-watch>
+
+				<div class="small-12 small-centered medium-4 medium-uncentered large-uncentered large-4 columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-						<li class="clearing-featured-img boom"><a href="img/posters/footloose-poster.jpg"><img src="img/posters/footloose-poster-th.jpg" alt="Footloose" title="Footloose"></a></li>
+						<li class="clearing-featured-img centered boom"><a href="img/posters/footloose-poster.jpg"><img src="img/posters/footloose-poster-th.jpg" alt="Footloose" title="Footloose"></a></li>
 						<li><a href="img/Footloose/footloose(1).jpg"><img src="img/Footloose/footloose(1)-th.jpg" alt="Footloose"></a></li>
 						<li><a href="img/Footloose/footloose(2).jpg"><img src="img/Footloose/footloose(2)-th.jpg" alt="Footloose"></a></li>
 						<li><a href="img/Footloose/footloose(3).jpg"><img src="img/Footloose/footloose(3)-th.jpg" alt="Footloose"></a></li>
@@ -362,16 +365,19 @@ include('incl/header.php'); ?>
 				</div>
 				
 			</div>
-			<div class="row boom">
-				<div class="small-8 medium-4 large-4 small-centered columns group" data-equalizer-watch>
+			<div class="row">
+
+				<div class="small-10 small-centered medium-6 large-6 columns">
+					
 					<ul class="clearing-thumbs clearing-feature" data-clearing>
-					  <li class="clearing-featured-img centered boom"><a href="img/cast-photos/nocrime-castphoto.jpg"><img src="img/cast-photos/nocrime-castphoto-th.jpg" alt="No Crime Like The Present cast photo" title="No Crime Like The Present"></a></li>
+					  <li class="clearing-featured-img centered-img boom"><a class="boom" href="img/cast-photos/nocrime-castphoto.jpg"><img src="img/cast-photos/nocrime-castphoto-th.jpg" alt="No Crime Like The Present cast photo" title="No Crime Like The Present"></a></li>
 					  <li><a href="img/noCrime/nocrime-01.jpg"><img src="img/noCrime/nocrime-01-th.jpg" alt="Live! Crime Time" title="No Crime Like The Present"></a></li>
 					  <li><a href="img/noCrime/nocrime-02.jpg"><img src="img/noCrime/nocrime-02-th.jpg" alt="Live! Crime Time" title="No Crime Like The Present"></a></li>
 					  <li><a href="img/noCrime/nocrime-03.jpg"><img src="img/noCrime/nocrime-03-th.jpg" alt="Live! Crime Time" title="No Crime Like The Present"></a></li>
 					  <li><a href="img/noCrime/nocrime-04.jpg"><img src="img/noCrime/nocrime-04-th.jpg" alt="Live! Crime Time" title="No Crime Like The Present"></a></li>
 					  <li><a href="img/noCrime/nocrime-05.jpg"><img src="img/noCrime/nocrime-05-th.jpg" alt="Live! Crime Time" title="No Crime Like The Present"></a></li>
 					  <li><a href="img/noCrime/nocrime.jpg"><img src="img/noCrime/nocrime.jpg" alt="Live! Crime Time" title="No Crime Like The Present"></a></li>
+					  
 					</ul>
 				</div>
 			

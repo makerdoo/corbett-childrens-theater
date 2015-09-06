@@ -13,7 +13,7 @@ include('../incl/header-2.php'); ?>
 			<div class="row boom" data-equalizer>
 				<div class="small-12 small-centered medium-8 large-10 large-centered columns group" data-equalizer-watch>
 					<ul class="clearing-thumbs" data-orbit data-options="animation:slide;slide_number:false;pause_on_hover:true;resume_on_mouseout:true,animation_speed:3;navigation_arrows:true;bullets:true;variable_height:true;swipe:true;">
-						<li><a href="../img/posters/ourtown.jpg"><img src="../img/posters/ourtown.jpg" style="width:50%;height:auto;margin: 0 auto;" alt="Our Town cast photo" title="Our Town"></a></li>
+						<li><a href="../img/posters/ourtown.jpg"><img src="../img/posters/ourtown.jpg" style="width:40%;height:auto;margin: 0 auto;" alt="Our Town cast photo" title="Our Town"></a></li>
 						<li><a href="../img/OurTown/OurTown-00.jpg" target="_blank"><img src="../img/OurTown/OurTown-00.jpg" alt="No Crime Like Our Town" title="OurTown"></a></li>
 				  		<li><a href="../img/OurTown/OurTown-13.jpg"><img src="../img/OurTown/OurTown-13.jpg" alt="No Crime Like Our Town" title="OurTown"></a></li>
 				  		<li><a href="../img/OurTown/OurTown-22.jpg"><img src="../img/OurTown/OurTown-22.jpg" alt="No Crime Like Our Town" title="OurTown"></a></li>

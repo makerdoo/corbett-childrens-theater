@@ -14,7 +14,7 @@ include('incl/header.php'); ?>
 			</header>
 		</div>
 		<div class="container">
-			<div class ="breadcrumb"><a href="index.php">Home</a> &gt; <a href="auditions.php">Auditions</a> &gt; Tips for Success</div>
+			<div class ="breadcrumb"><a href="home.php">Home</a> &gt; <a href="auditions.php">Auditions</a> &gt; Tips for Success</div>
 			<br>
 			<div class="row">
 				<div class="small-12 columns panel">

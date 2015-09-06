@@ -15,7 +15,7 @@ include('incl/header.php'); ?>
 		</header>
 	</div>
 	<div class="container">
-		<div class ="breadcrumb"><a href="index.php">Home</a> &gt; <a href="about.php">About</a> &gt; Contacts</div>
+		<div class ="breadcrumb"><a href="home.php">Home</a> &gt; <a href="about.php">About</a> &gt; Contacts</div>
 		<br>
 		<div class="row" data-equalizer>	
 			

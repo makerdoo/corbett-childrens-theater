@@ -14,17 +14,25 @@ include('incl/header.php'); ?>
               </header>
             </div>
             <div class="container">
-            <div class ="breadcrumb"><a href="index.php">Home</a> &gt; <a href="about.php">About</a> &gt; Mission</div>  
+            <div class ="breadcrumb"><a href="home.php">Home</a> &gt; <a href="about.php">About</a> &gt; Mission</div>  
               <br>
+
                 <div class="row small-12 large-12 column small-centered panel" style="border-radius:4px;">
 <!--@#@#@# modal @#@#@#-->  
-              
+                <div class="row" data-equalizer>
+                    <div class="large-8 medium-10 small-12 columns small-centered panel bordered" style="text-align:center;">
+                      <br>
+                         <iframe class="centered media" src="https://player.vimeo.com/video/92070330?color=50d7fe&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="boom"><a href="https://vimeo.com/92070330">Corbett Children&#039;s Theater Promo Documentary</a> from <a href="https://vimeo.com/user21814594">Adam Bertsch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+                      <br>
+                      
+                    </div>
+                </div>
                 <div class="row">
                 <hr class="styleeb" id="jumpoint">              
                   <div class="small-12 medium-10 large-10 columns small-centered group">
                     <a href="#" data-reveal-id="myModal-12"><h3 class="boom underline">Our Core Values</h3>
                       <p>The educational power of the arts encourages teamwork and communication skills and allows participants to experience the pride of accomplishment.
-                      High expectations of our members performance and behavior encourages them to reach their full potential and become both strong team players and confident leaders.</p><h6>[learn more]</h6>  
+                      High expectations of our members performance and behavior encourages them to reach their full potential and become both strong team players and confident leaders.</p><h6 style="color:rgb(80, 215, 254)">[learn more]</h6>  
                     </a>
             
                   </div>
@@ -56,7 +64,9 @@ include('incl/header.php'); ?>
                       
                   </div>
                   <hr class="styleeb">
+
                 </div>
+                
               </div>
               <br>
               <br>          

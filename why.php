@@ -13,7 +13,7 @@ include('incl/header.php'); ?>
 				
 			</header>
 		</div>
-			<div class ="breadcrumb"><a href="index.php">Home</a> &gt; <a href="classes.php">Classes</a> &gt; Why Classes</div>
+			<div class ="breadcrumb"><a href="home.php">Home</a> &gt; <a href="classes.php">Classes</a> &gt; Why Classes</div>
 			<div class="row small-12 columns small-centered">
 				<div><img src="img/redcurtain.jpg" width="100%" height="100%" alt="big red curtain"></div>
 			</div>
