@@ -32,7 +32,7 @@ include('incl/header.php'); ?>
                   <div class="small-12 medium-10 large-10 columns small-centered group">
                     <a href="#" data-reveal-id="myModal-12"><h3 class="boom underline">Our Core Values</h3>
                       <p>The educational power of the arts encourages teamwork and communication skills and allows participants to experience the pride of accomplishment.
-                      High expectations of our members performance and behavior encourages them to reach their full potential and become both strong team players and confident leaders.</p><h6 style="color:rgb(80, 215, 254)">[learn more]</h6>  
+                      High expectations of our members performance and behavior encourages them to reach their full potential and become both strong team players and confident leaders.</p><h6 class="fade-in" style="color:rgb(80, 215, 254)">[learn more]</h6>  
                     </a>
             
                   </div>

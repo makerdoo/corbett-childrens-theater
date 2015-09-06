@@ -25,7 +25,7 @@ include('incl/header.php'); ?>
 						
 						<ul class="boom">
 							<li class="boom"><h4><span class="strong">November production:</span> Seussical the Musical!</h4><h5>Directed by: Liz Bertsch & Kathy Johnson</h5></li>
-							<a class="boom strong" href="auditions.php" target="_self">Audition Info</a>
+							<a class="boom strong fade-in" href="auditions.php" target="_self">Audition Info</a>
 							<br>
 							<br>
 							<li class="boom"><h4><span class="strong">December production:</span> It's a Wonderful Life </h4><h5>Directed by: Angel Williams</h5></li>
@@ -104,7 +104,7 @@ include('incl/header.php'); ?>
             		<div class="panel" data-equalizer-watch style="text-align:center;">
 			      		<h2>CCT is committed to</h2>
 											
-							<h3><a href="#" data-reveal-id="myModal-nurt">Nurturing</a></h3>
+							<h3 class="fade-in"><a href="#" data-reveal-id="myModal-nurt">Nurturing</a></h3>
 							<div id="myModal-nurt" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 								<h1>Nurturing</h1>
                          <p>CCT exists for the youth of eastern Multnomah County.  Period. It doesn&#39;t get any more basic than that.</p>
@@ -119,7 +119,7 @@ include('incl/header.php'); ?>
 							<a class="close-reveal-modal" aria-label="Close">&#215;</a>
 						    </div>
 
-							<h3><a href="#" data-reveal-id="myModal-inst">Instructing</a></h3>
+							<h3 class="fade-in"><a href="#" data-reveal-id="myModal-inst">Instructing</a></h3>
 							<div id="myModal-inst" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 
 							<h1>Instructing</h1>
@@ -133,7 +133,7 @@ include('incl/header.php'); ?>
 								<a class="close-reveal-modal" aria-label="Close">&#215;</a>
 						    </div>
 
-							<h3><a href="#" data-reveal-id="myModal-dev">Developing</a></h3>
+							<h3 class="fade-in"><a href="#" data-reveal-id="myModal-dev">Developing</a></h3>
 							<div id="myModal-dev" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 								<h1>Developing</h1>
                          <p>What do theater kids learn? You might be surprised to learn that the primary things kids learn in a children’s theater are life skills like Teamwork, Problem Solving, Focus, and the Ability to Meet Deadlines.  Sure they learn to sing, dance, and act, and those are useful skills, but the ability to think on your feet and confidently face a room full of people are skills that every individual can benefit from.</p>
@@ -144,7 +144,7 @@ include('incl/header.php'); ?>
 
 							 and 
 
-							<h3><a href="#" data-reveal-id="myModal-promo">Promoting</a></h3>
+							<h3 class="fade-in"><a href="#" data-reveal-id="myModal-promo">Promoting</a></h3>
 							<div id="myModal-promo" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 								<h1>Promoting</h1>
                          <p>... Literacy in the East County.  A theatre arts education gets kids reading! Perhaps your child becomes interested because they love the fantasy of Tom Sawyer, Pippi Longstocking, or Charlette’s Web, but over time they are introduced to Charles Dickens (Oliver!, A Christmas Carol), and Victor Hugo (Les Miserables) or George Orwell (Animal Farm) and in the process they discover that reading is fun and can open new worlds of possibilities to them!</p>
@@ -154,7 +154,7 @@ include('incl/header.php'); ?>
 						    </div>
 						    
 							<h4>the youth of Eastern Multnomah county.</h4>
-							
+							<br />
 							<p>Click above to learn more about how CCT uses the theatre to develop the youth of our community.</p>
 		                
 		            </div>    
@@ -172,8 +172,10 @@ include('incl/header.php'); ?>
 		                  CCT is staffed 100% by volunteers who give their time for the benefit of the kids. We strive to provide a safe place for the youth of east county to stretch their wings in all areas of the theatre arts, reqardless of who they are or where they come from...
 		                </p>
              			<h3><a href="learn-more.php" class="boom" target="_self" style="text-align:center;"><span style="color:rgb(80, 215, 254)">Learn More</span></a></h3>
+             			<br />
 		                <h3>Help Provide Opportunities for the Youth of Eastern Multnomah County.</h3>
 		                <br />
+
 		                <a href='https://www.givlet.org/donate/e0gi/' class='on-checkout'> <img src='https://ordernow_prod.s3.amazonaws.com/img/TheGivletButton.png' /> </a> <script type='text/javascript' src='https://ordernow_prod.s3.amazonaws.com/js/givlet-widget-latest.js'> </script>
 		                <br>
 		                

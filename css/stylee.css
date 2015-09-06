@@ -604,7 +604,7 @@ div#next-up .panel ul h5 li  {
 	@-ms-keyframes nav-icons { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
 	@keyframes nav-icons { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
 
-	li.has-dropdown:hover, .not-click:hover, #menu ul li a h3:hover, #menu ul li a h4:hover, .panel ul li a:hover, h3 span:hover,  {
+	li.has-dropdown:hover, .not-click:hover, #menu ul li a h3:hover, #menu ul li a h4:hover, .panel ul li a:hover, h2 span:hover, h3 span:hover, h4 span:hover, h5 span:hover, h6 span:hover, p span:hover, p a:hover, ul li a:hover, .fade-in:hover  {
 				-moz-animation: nav-icons .5s ease-in forwards;
 				-webkit-animation: nav-icons .5s ease-in forwards;
 				-o-animation: nav-icons .5s ease-in forwards;
@@ -628,11 +628,11 @@ div#next-up .panel ul h5 li  {
 
 
 .change-hover:hover  {
-	animation: background 1.0s ease-in forwards 0s;
-	-moz-animation: background 1.0s ease-in forwards 0s;
-	-webkit-animation: background 1.0s ease-in forwards 0s;
-	-o-animation: background 1.0s ease-in forwards 0s;
-	-ms-animation: background 1.0s ease-in forwards 0s;
+	animation: background 0.7s ease-in forwards 0s;
+	-moz-animation: background 0.7s ease-in forwards 0s;
+	-webkit-animation: background 0.7s ease-in forwards 0s;
+	-o-animation: background 0.7s ease-in forwards 0s;
+	-ms-animation: background 0.7s ease-in forwards 0s;
 	background-color:rgb(247, 3, 0);
 	opacity:0.85;
 }
