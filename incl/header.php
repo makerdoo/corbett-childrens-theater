@@ -1,6 +1,10 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#">
+
 <html class="no-js" lang="en">
 	<head>
-		<meta charset="utf-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
 		<link href="cctlogofavicon.png" rel="shortcut icon" type="image/x-icon">
 		<title>Corbett Children's Theater | Creating Character Together</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +18,7 @@
 		 <meta name="robots" content="INDEX,FOLLOW" />
 	     <meta name="robots" content="noimageindex" />	
 		 <meta name="keywords" content="children's theater, children's theatre, corbett oregon, troutdale oregon, plays, musicals, act, acting, sing, singing, dance, dancing" />
-		 <meta name="description" content="Professional quality theater, performed by children for audiences of all ages. Check out our classes and workshops for dance, acting, improv...." />
+		 <meta name="description" content="CCT provides professional quality theater, performed by children for audiences of all ages. Check out our classes and workshops for dance, acting, improv...." />
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
