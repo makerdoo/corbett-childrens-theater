@@ -29,6 +29,7 @@
 				    }
 		?>
     	<div class="sticky">
+
 			<nav class="top-bar" data-topbar role="navigation" data-options="is_hover: true; dropdown_autoclose: false;">
 				<ul class="title-area">
 					<li class="logo">

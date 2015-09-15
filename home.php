@@ -165,13 +165,17 @@ include('incl/header.php'); ?>
 			      	<div class="panel"  data-equalizer-watch style="text-align:center;">
 			      		<br>
 						
-						<h2>Be the Change, Donate Yours</h2>
+						<h2>Special Announcement from Our Artistic Director</h2>
 						<p>
-		                  CCT exists for the youth of East Multnomah County. Period. It doesn't get any more basic than that.
-						
-		                  CCT is staffed 100% by volunteers who give their time for the benefit of the kids. We strive to provide a safe place for the youth of east county to stretch their wings in all areas of the theatre arts, reqardless of who they are or where they come from...
-		                </p>
-             			<h3><a href="learn-more.php" class="boom" target="_self" style="text-align:center;"><span style="color:rgb(80, 215, 254)">Learn More</span></a></h3>
+		                Have you ever had something you needed to do… but you just kept avoiding the task?
+
+						That's how I feel about this letter. I just don’t want to admit that I have to write it. Putting 
+
+						these words on paper is painful, frustrating, and frightening.
+
+						But here they are: <span style="font-weight:900;">This coming fall may well cue the…</span></p>
+
+             			<h3><a href="donate.php#specialnews" class="boom" target="_self" style="text-align:center;"><span style="color:rgb(80, 215, 254)">Learn More</span></a></h3>
              			<br />
 		                <h3>Help Provide Opportunities for the Youth of Eastern Multnomah County.</h3>
 		                <br />
@@ -183,7 +187,7 @@ include('incl/header.php'); ?>
 		            </div>    
 				</div>
 			</div>
-
+			<a href="#">[above]</a>
 		</div>	
 
 <?php include('incl/footer.php');?>			
