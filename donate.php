@@ -14,16 +14,15 @@ include('incl/header.php'); ?>
 		</header>
 	</div>
 	<div class="container">
-		
-		<br>
+	
 		<br>
 			<div class="small-10 small-centered medium-10 large-10 columns">
-        	<h3>At CCT our mission is to educate, challenge and inspire youth, support the learning environment, and build strong community values.</h3>
-        	<p class="boom">Scroll down for a special announcement from our Artistic Director</p> 
+        	<h3>At CCT our mission is to educate, challenge and inspire youth, support the learning environment, and build strong community values.</h4>
+        	<h4 class="boom" id="specialnews">Scroll down for a special announcement from our Artistic Director</p> 
         	</div>
         	<div class="large-6 medium-10 small-12 columns small-centered panel bordered" style="text-align:center;">
         		<br>
-               <iframe class="centered media" src="https://player.vimeo.com/video/92670361?color=50d7fe&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p id="specialnews" class="boom"><a href="https://vimeo.com/92670361">CCT Documentary Short</a> from <a href="https://vimeo.com/user21814594">Adam Bertsch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+               <iframe class="centered media" src="https://player.vimeo.com/video/92670361?color=50d7fe&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="boom"><a href="https://vimeo.com/92670361">CCT Documentary Short</a> from <a href="https://vimeo.com/user21814594">Adam Bertsch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 			    
 <br>
 <br>
@@ -78,8 +77,10 @@ include('incl/header.php'); ?>
 
 			deductible.
 			</p>
-			<p>Thank you for your consideration,</p>
-			<p>Angel Williams, Artistic Director</p>
+			<br>
+			<p style="float:left;">Thank you for your consideration,</p>
+			<br>
+			<p style="float:left;display:block;">Angel Williams, Artistic Director</p>
 		</div>
 		        <br>
 		        <a href='https://www.givlet.org/donate/e0gi/' class='on-checkout'> <img src='https://ordernow_prod.s3.amazonaws.com/img/TheGivletButton.png' /> </a> <script type='text/javascript' src='https://ordernow_prod.s3.amazonaws.com/js/givlet-widget-latest.js'> </script>
@@ -87,7 +88,7 @@ include('incl/header.php'); ?>
 		    </div>
 		    <br>
 		    <br>
-		    <p>[above]<p>
+		    <a href="#">[above]</a>
     </div>
 		
 

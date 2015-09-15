@@ -18,56 +18,43 @@ include('incl/header.php'); ?>
 ############################################################################################-->		
 		<div class="container">
 		<br>
-			<div class="large-8 medium-10 small-10 columns medium-centered large-centered small-centered panel group" style="border: 1px double #333;">
-        		<div class="small-12 medium-8 large-6 small-centered columns group"><a href="img/uCantTakeIt/ucant-set-dark-sm.jpg" data-reveal-id="myModal"><img src="img/uCantTakeIt/ucant-set-dark-sm.jpg" alt="Upcoming Poster" id="upcoming-poster"></a>
-
-						<div id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-					  		<img src="img/uCantTakeIt/ucant-set.jpg" id="modalTitle" style="vertical-align:middle !important;" alt="nextup!">
-					  		<a class="close-reveal-modal" aria-label="Close">&#215;</a>
-					  	</div>
-					<br>	
-					 	
-	            </div>
-	       		
-				<div class="row" data-equalizer style="padding-top:0;margin-top:0;height:auto;">
-					
-						<div class="small-12 medium-6 large-6 columns group" data-equalizer-watch id="next-up">
-							
-							<br>
-							<h1 class="boom">you just missed...</h1>
-							<h2 class="boom"> You Can't Take It With You</h2>
-							<br>
-							<ul id="show-dates">
-								<li class="boom"><h5>April 30 & May 1pm -  7pm</h5></li>
-								<li class="boom"><h5>May 2 -  1pm & 7pm</h5></li>
-								<li class="boom"><h5>May 7 & 8 - 7pm</h5></li>
-								<li class="boom"><h5>May 9 -  1pm & 7pm</h5></li>
-								
-		                    </ul>
-		                    <br>
-			                    <h5 class="boom">presented by special arrangement with<br>Dramatists Play Service, Inc., New York<br></h5>
-						</div>
+			<div class="row" id="november" data-equalizer style="padding-top:0;margin-top:0;height:auto;">
+				<div class="large-10 medium-10 small-10 columns medium-centered large-centered small-centered panel group" style="border: 1px double #333;">
+					<h2 class="important">Coming in November</h2>
+					<br>
+					<img class="centered-img" src="img/seussical-sm.jpg" alt="Seussical the Musical Banner">	
+					<span class="boom"><h4 class="strong">Seussical the Musical!</h4><h5 class="strong">Directed by: Liz Bertsch & Kathy Johnson</h5></span>
+						<ul id="show-dates">
+							<li class="boom"><h5>November 5th, 6th, 7th & 12th, 13th, 14th</h5></li>
+							<li class="boom"><h5>Contact:  <a href="mailto:CCTSeussical2015@gmail.com" title="CCTSeussical2015@gmail.com">Tracy Hugo</a> for more details</h5></li>
+	                    </ul>
 						<br>
-							            	
-		            	<br>
-						<div class="small-12 medium-6 large-6 columns group" data-equalizer-watch>
-							<a href="#" data-reveal-id="myModal-2">
-						 <h3 class="boom">You Can't Take It With You</h3>
-		                 <h6 class="boom">by: Moss Hart and George S. Kaufman</h6>
-			      		<p>At first the Sycamores seem mad, but it is not long before we realize that if they are mad, the rest of the world is madder. In contrast to these delightful people are the unhappy Kirbys. The plot shows how Tony, attractive young son of the Kirbys, falls in love with Alice Sycamore and brings his parents to dine at the Sycamore home on the wrong evening.</p><p>The shock sustained by the Kirbys, who are invited to eat cheap food, shows Alice that marriage with Tony is out of the question. The Sycamores, however, though sympathetic to Alice, find it hard to realize her point of view.</p><h6>[learn more]</h6></a>
-				    
-						</div>
-						<div id="myModal-2" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-							<h3 class="boom" id="modal-title">You Can't Take It With You</h3>
-		                 <h6 class="boom">by: Moss Hart and George S. Kaufman</h6>
-			      		<p>At first the Sycamores seem mad, but it is not long before we realize that if they are mad, the rest of the world is madder. In contrast to these delightful people are the unhappy Kirbys. The plot shows how Tony, attractive young son of the Kirbys, falls in love with Alice Sycamore and brings his parents to dine at the Sycamore home on the wrong evening.</p><p>The shock sustained by the Kirbys, who are invited to eat cheap food, shows Alice that marriage with Tony is out of the question. The Sycamores, however, though sympathetic to Alice, find it hard to realize her point of view.</p><p> Meanwhile, Tony, who knows the Sycamores are right and his own people wrong, will not give her up. In the end Mr. Kirby is converted to the happy madness of the Sycamores, particularly since he happens in during a visit by an ex-Grand Duchess, earning her living as a waitress.</p><p> No mention has as yet been made of the strange activities of certain members of the household engaged in the manufacture of fireworks; nor of the printing press set up in the parlor; nor of Rheba the maid and her friend Donald; nor of Grandpa's interview with the tax collector when he tells him he doesn't believe in the income tax.</p>
-			      		<a class="close-reveal-modal" aria-label="Close">&#215;</a>
-						</div>
+						<p class="boom">Seussical is a whimsical and fun show that features many of the classic Dr. Seuss characters from over a dozen of his books!  The colorful characters transport us from the Jungle of Nool to the Circus McGurkus to the invisible world of the Whos.</p><p>  One of the most widely produced musicals in the nation, <span class="strong">Seussical</span> is fun for the whole family!</p>    
+						<br>        	
+	            	
 				</div>
 			</div>
-			<br>
+			<div class="row" id="december" data-equalizer style="padding-top:0;margin-top:0;height:auto;">
+				<div class="large-10 medium-10 small-10 columns medium-centered large-centered small-centered panel group" style="border: 1px double #333;">
+					<h2 class="important">Coming in December</h2>
+					<br>
+					<span class="boom"><h4 class="strong">It's a Wonderful Life, A Live Radio Play </h4><h5 class="strong">Directed by: Angel Williams</h5></span>
+					<ul id="show-dates">
+							<li class="boom"><h5>Shows in December, more details coming soon!</h5></li>
+							<li class="boom"><h5>Contact:  <a href="mailto:adam@corbettchildrenstheater.com" title="adam@corbettchildrenstheater.com">Adam Bertsch</a> for more details</h5></li>
+					</ul>
+					<br>
+					<p class="boom"><span style="font-weight:900;">It's a Wonderful Life, A Live Radio Play</span> is a new spin on an old classic. Radio Play's are a new style of show coming to CCT that we are VERY excited about.</p>
+
+					<p class="boom">A Radio Play is where the actors on stage are often set in the 1940's era of Radio Theatre and are performing essentially like the audience is looking into the studio of the Radio Theatre's performance! Often times Radio Theatre was performed by a handful of actors playing MANY roles. This exciting opportunity is one that will grow CCT into a new arena of Live Theater. We're excited to offer this amazing classic story this Christmas Season!</p>
+					<br>
+
+			</div>
+				<br>
+				
 <!--############################################################################################
 ##############################  closing wrapper  ###############################################
 #############################################################################################-->
-        </div>  <!--closing div for 'container' class--> 
+        </div>  <!--closing div for 'container' class-->
+        <a href="#">[above]</a> 
     <?php include('incl/footer.php');?>          

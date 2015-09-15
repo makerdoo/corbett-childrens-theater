@@ -13,16 +13,16 @@ include('incl/header.php'); ?>
         
       </header>
     </div>
-  <div class="container">
+  <div class="container" id="1">
     <br>
 
     <br>
       <div class="large-8 medium-8 small-12 columns medium-centered large-centered small-centered panel group" style="border: 1px double #333;">
         <div class="small-12 medium-8 large-6 small-centered columns group"><img src="img/comingsoon.gif" id="gif" alt="Coming Soon!" /></div>
-      <div class="row">  
+      <div class="row bordered">  
         <div class="large-7 medium-7 small-12 columns">
           <br>
-          <h2 class="boom underline">Seussical the Musical!</h2>
+          <h3 class="boom underline">Seussical the Musical!</h3>
           <br>
           <p>&nbsp;&nbsp;&nbsp;&nbsp;Seussical is a whimsical and fun show that features many of the classic Dr. Seuss characters! This fun-filled show has many featured roles so there are opportunities for MANY students to shine! 
           <br>
@@ -45,11 +45,40 @@ include('incl/header.php'); ?>
           </ul>
          
         </div>
+        <hr>
+        <div class="row">  
+        <div class="large-7 medium-7 small-12 columns">
+          <br>
+          <h3 class="boom underline">It's A Wonderful Life, A live Radio Play</h3>
+          <br>
+          <p class="boom">We are having an informational meeting for both cast and crew next Saturday, September 19th at our new rehearsal space. We would like to have the time from 6:30pm - 7:30pm be a workshop time, specifically addressed to those interested in working tech crew for the show.
+
+            Auditions will be a little over a week later on Monday September 28th and Tuesday September 29th. Times TBA</p>
+        </div>
+        <div class="large-5 medium-5 small-12 columns group">
+          
+          <br>
+          <h3 class="strong boom underline">Audition Info</h3>
+          <br>
+
+          <ul>
+            <li class="boom"><span class="strong">Date:</span> Saturday, September 19</li>
+            <li class="boom"><span class="strong">Time:</span>  5:30 - 6:30pm</li>   
+            <li class="boom"><span class="strong">Place:</span>  27000 SE Stark St, Troutdale, OR 97060</li>
+            <li class="boom"><span class="strong">Ages:</span>  4th - 12th grade</li>
+            <li class="boom"><span class="strong">Production Dates:</span>  Coming In December</li>
+            <li class="boom"><span class="strong">Contact:</span>  <h5>Contact:  <a href="mailto:adam@corbettchildrenstheater.com" title="adam@corbettchildrenstheater.com">Adam Bertsch</a> for more details</h5> for production/audition inquiries.</li>
+            <li class="boom"><span class="strong">Directed by:</span> Angel Williams</li>
+          </ul>
+         
+        </div>
+
       </div>
     </div>
   
   	<br>
     <br>
+    
       <div class="large-8 medium-8 small-10 columns medium-centered large-centered small-centered panel">
       	<br>
           <h3 id="h1-cent" class="underline">Things Not to Do at an Audition</h3>
@@ -99,7 +128,7 @@ include('incl/header.php'); ?>
       <br>
       <br>
       <br>
-
+      <a href="#">[above]</a>
 <!--############################################################################################
 ##############################  closing wrapper  ###############################################
 #############################################################################################-->

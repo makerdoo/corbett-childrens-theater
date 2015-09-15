@@ -96,6 +96,17 @@ h2, h3, #h1-cent, #cent, div h5 #cent, .boom, .wkshp-title, div h5 .boom  {
 	font-weight: 900;
 }
 
+.important  {
+	font-weight: 900;
+	margin:0 auto;
+	display: block;
+	text-decoration: underline;
+
+}
+.bordered  {
+	border: solid 1px #000;
+}
+
 /*????????????????????????????????????????????????????????
                   BANNERS, HEADERS, FOOTERS
 ????????????????????????????????????????????????????????*/
@@ -604,7 +615,7 @@ div#next-up .panel ul h5 li  {
 	@-ms-keyframes nav-icons { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
 	@keyframes nav-icons { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
 
-	li.has-dropdown:hover, .not-click:hover, #menu ul li a h3:hover, #menu ul li a h4:hover, .panel ul li a:hover, h2 span:hover, h3 span:hover, h4 span:hover, h5 span:hover, h6 span:hover, p span:hover, p a:hover, ul li a:hover, .fade-in:hover  {
+	li.has-dropdown:hover, .not-click:hover, #menu ul li a h3:hover, #menu ul li a h4:hover, .panel ul li a:hover, h2 span:hover, h3 span:hover, h4 span:hover, h5 span:hover, h6 span:hover, p a:hover, ul li a:hover, .fade-in:hover  {
 				-moz-animation: nav-icons .5s ease-in forwards;
 				-webkit-animation: nav-icons .5s ease-in forwards;
 				-o-animation: nav-icons .5s ease-in forwards;

@@ -24,11 +24,12 @@ include('incl/header.php'); ?>
 						<br>
 						
 						<ul class="boom">
-							<li class="boom"><h4><span class="strong">November production:</span> Seussical the Musical!</h4><h5>Directed by: Liz Bertsch & Kathy Johnson</h5></li>
+							<li class="boom"><h4><a href="shows.php#november" class="strong">November production:</a> Seussical the Musical!</h4><h5>Directed by: Liz Bertsch & Kathy Johnson</h5></li>
 							<a class="boom strong fade-in" href="auditions.php" target="_self">Audition Info</a>
 							<br>
 							<br>
-							<li class="boom"><h4><span class="strong">December production:</span> It's a Wonderful Life </h4><h5>Directed by: Angel Williams</h5></li>
+							<li class="boom"><h4><a href="shows.php#december" class="strong">December production:</a> It's a Wonderful Life, A Live Radio Play </h4><h5>Directed by: Angel Williams</h5></li>
+							<a class="boom strong fade-in" href="auditions.php" target="_self">Audition Info</a>
 						</ul>
 						<hr class="drk-blue">
                     </div>
@@ -51,7 +52,7 @@ include('incl/header.php'); ?>
 	            	<div id="myModal-123" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 						<h2 class="boom" id="modal-title">Seussical the Musical!</h2>
 	                 	<hr class="drk-blue">
-		      			<h5>A strange and fantastic red-and-white striped top hat appears on an empty stage, full of possibilities. A Boy enters and is drawn toward the magical hat.</h5><h5> The Cat in the Hat suddenly materializes! "You've got quite a mind for your age," quips the Cat as he/she begins singing about the power of imagination ("Oh The Thinks You Can Think").</h5><h5> Throughout the song, famous characters are introduced who will figure in the musical: Horton the Elephant, Gertrude McFuzz--the bird with the one feather tail, the Whos of Whoville--including the Mayor and his Wife, Mayzie La Bird, the Sour Kangaroo and the Citizens of the Jungle of Nool. The Boy and the Cat use their imaginations to transport everyone to the Jungle of Nool as the adventures begin.</h5>
+		      			<h5>A strange and fantastic red-and-white striped top hat appears on an empty stage, full of possibilities. A Boy enters and is drawn toward the magical hat.</h5><h5> The Cat in the Hat suddenly materializes! "You've got quite a mind for your age," quips the Cat as he/she begins singing about the power of imagination ("Oh The Thinks You Can Think").</h5><h5> Throughout the song, famous characters are introduced who will figure in the musical: Horton the Elephant, Gertrude McFuzz -- the bird with the one feather tail, the Whos of Whoville -- including the Mayor and his Wife, Mayzie La Bird, the Sour Kangaroo and the Citizens of the Jungle of Nool. The Boy and the Cat use their imaginations to transport everyone to the Jungle of Nool as the adventures begin.</h5>
 
 		      			<a class="close-reveal-modal" aria-label="Close">&#215;</a>
 					</div>
