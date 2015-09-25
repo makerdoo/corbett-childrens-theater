@@ -29,7 +29,7 @@ include('incl/header.php'); ?>
 							<br>
 							<br>
 							<li class="boom"><h4><a href="shows.php#december" class="strong">December production:</a> It's a Wonderful Life, A Live Radio Play </h4><h5>Directed by: Angel Williams</h5></li>
-							<a class="boom strong fade-in" href="auditions.php" target="_self">Audition Info</a>
+							<a class="boom strong fade-in" href="auditions.php#wonderful" target="_self">Audition Info</a>
 						</ul>
 						<hr class="drk-blue">
                     </div>

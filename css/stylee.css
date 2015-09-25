@@ -27,6 +27,7 @@ element.style  {
 
 p  {
 	font-size: 1.05em;
+	margin-bottom: .75rem;
 }
 .container  {
 	background-image: url('../img/Paper-Grunge-Background-trial.jpg') !important;
@@ -574,7 +575,7 @@ div#next-up .panel ul h5 li  {
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 		/* Set your background with this */
-		background: url("../img/footer-crawler.jpg");
+		background: url("../img/footer-crawler-new.jpg");
 		background-repeat: repeat-x;
 		height:10em;
 		max-width: 100%

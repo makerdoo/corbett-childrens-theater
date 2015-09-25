@@ -38,6 +38,7 @@ include('incl/header.php'); ?>
 				<div class="large-10 medium-10 small-10 columns medium-centered large-centered small-centered panel group" style="border: 1px double #333;">
 					<h2 class="important">Coming in December</h2>
 					<br>
+					<img class="centered-img" src="img/WondefulLife/WonderfulLifeBannerLogo-sm.jpg" alt="It's a Wonderful Life, A Live Radio Play">
 					<span class="boom"><h4 class="strong">It's a Wonderful Life, A Live Radio Play </h4><h5 class="strong">Directed by: Angel Williams</h5></span>
 					<ul id="show-dates">
 							<li class="boom"><h5>Shows in December, more details coming soon!</h5></li>

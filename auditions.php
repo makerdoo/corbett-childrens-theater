@@ -18,68 +18,110 @@ include('incl/header.php'); ?>
 
     <br>
       <div class="large-8 medium-8 small-12 columns medium-centered large-centered small-centered panel group" style="border: 1px double #333;">
-        <div class="small-12 medium-8 large-6 small-centered columns group"><img src="img/comingsoon.gif" id="gif" alt="Coming Soon!" /></div>
-      <div class="row bordered">  
-        <div class="large-7 medium-7 small-12 columns">
-          <br>
-          <h3 class="boom underline">Seussical the Musical!</h3>
-          <br>
-          <p>&nbsp;&nbsp;&nbsp;&nbsp;Seussical is a whimsical and fun show that features many of the classic Dr. Seuss characters! This fun-filled show has many featured roles so there are opportunities for MANY students to shine! 
-          <br>
-          &nbsp;&nbsp;&nbsp;&nbsp;This play is also full of great opportunities for students who are new or looking to get involved with theater.  Gertrude Mcfuzz, Horton, Mayzie Labird, the Wickersham Brothers, Jojo and many more await.</p>
-           <!--<img src="img/comingsoon.gif" id="gif" alt="Coming Soon!" /> -->
-        </div>
-        <div class="large-5 medium-5 small-12 columns group">
-          
-          <br>
-          <h3 class="strong boom underline">Audition Info</h3>
-          <br>
-          <ul>
-            <li class="boom"><span class="strong">Date:</span>  August 21 & 22</li>
-            <li class="boom"><span class="strong">Time:</span>  TBA</li>   
-            <li class="boom"><span class="strong">Place:</span>  TBA</li>
-            <li class="boom"><span class="strong">Ages:</span>  pre-K through 12th grade</li>
-            <li class="boom"><span class="strong">Production Dates:</span>  November 5th, 6th, 7th & 12th, 13th, 14th</li>
-            <li class="boom"><span class="strong">Contact:</span>  <a href="mailto: CCTSeussical2015@gmail.com" title="CCTSeussical2015@gmail.com">Tracey Hugo</a> for production/audition inquiries.</li>
-            <li class="boom"><span class="strong">Directed by:</span> Liz Bertsch and Kathy Johnson</li>
-          </ul>
-         
-        </div>
-        <hr>
-        <div class="row">  
-        <div class="large-7 medium-7 small-12 columns">
-          <br>
-          <h3 class="boom underline">It's A Wonderful Life, A live Radio Play</h3>
-          <br>
-          <p class="boom">We are having an informational meeting for both cast and crew next Saturday, September 19th at our new rehearsal space. We would like to have the time from 6:30pm - 7:30pm be a workshop time, specifically addressed to those interested in working tech crew for the show.
+          <div class="small-12 medium-8 large-6 small-centered columns group"><img src="img/comingsoon.gif" id="gif" alt="Coming Soon!" /></div>
+          <div class="row bordered">  
+            <div class="large-7 medium-7 small-12 columns">
+              <br>
+              <h3 class="boom underline">Seussical the Musical!</h3>
+              <br>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;Seussical is a whimsical and fun show that features many of the classic Dr. Seuss characters! This fun-filled show has many featured roles so there are opportunities for MANY students to shine! 
+              <br>
+              &nbsp;&nbsp;&nbsp;&nbsp;This play is also full of great opportunities for students who are new or looking to get involved with theater.  Gertrude Mcfuzz, Horton, Mayzie Labird, the Wickersham Brothers, Jojo and many more await.</p>
+              <h4 class="fade-in underline boom"><a href="#" data-reveal-id="myModal-audit">Before Your Audition!</a></h4>
+                <div id="myModal-audit" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                  <h4 class="underline boom">Before Your Audition!</h4>
+                    <p style="margin-left:15px;">
+                      &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Please come prepared with a monologue (a short piece of dialogue that is memorized) for your audition. <a href="http://stageagent.com/monologues" target="_blank">  stageagent.com</a> is a good resource for monologues.
+                    </p>
+                    <p>                     
+                    <ul>
+                      <li><span class="underline">Examples:</span></li>
+                      <li><span class="strong">4-9 years old:</span> a Dr. Seuss poem, a joke, or a short 30 second monologue.</li>
+                      <li><span class="strong">10-18 years old:</span> 1 minute to 2 minute long monologue.</li>
+                    </ul>           
+                    </p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="forms/AuditionForm.pdf" class="boom" target="_blank">Click here to print an audition form</a> for Seussical.
+                    </p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;See below for a few pointers on <span class="strong">what not to do</span> at an audition and <a href="tips.php">a few tips</a> on how to increase your odds of success and improve your skills in the theater arts.           
+                    </p>         
+                     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                </div>
+               <!--<img src="img/comingsoon.gif" id="gif" alt="Coming Soon!" /> -->
+            </div>
+            <div class="large-5 medium-5 small-12 columns group" id="wonderful">
+              
+              <br>
+              <h3 class="strong boom underline">Audition Info</h3>
+              <br>
+              <ul>
+                <li class="boom"><span class="strong">Date:</span>  August 21 & 22</li>
+                <li class="boom"><span class="strong">Time:</span>  TBA</li>   
+                <li class="boom"><span class="strong">Place:</span>  TBA</li>
+                <li class="boom"><span class="strong">Ages:</span>  pre-K through 12th grade</li>
+                <li class="boom"><span class="strong">Production Dates:</span>  November 5th, 6th, 7th & 12th, 13th, 14th</li>
+                <li class="boom"><span class="strong">Production Manager:</span>  <a href="mailto: CCTSeussical2015@gmail.com" title="CCTSeussical2015@gmail.com">Tracey Hugo</a></li>
+                <li class="boom"><span class="strong">Directed by:</span> Liz Bertsch and Kathy Johnson</li>
+              </ul>
+             
+              </div>
+            <hr class="drk-blue">
+            <div class="row">  
+            <div class="large-7 medium-7 small-12 columns">
+              <br>
+              <h3 class="boom underline">It's A Wonderful Life, A live Radio Play</h3>
+              <br>
+                
+                <p style="margin-left:15px;">&nbsp;&nbsp;&nbsp;&nbsp;Inspired by the classic American film by Frank Capra, It's a Wonderful Life: A Live Radio Play is performed as a 1940s live radio broadcast in front of a studio audience.  We're excited to offer this amazing classic story this Christmas Season!</p>
+                
+                
+                 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;For more information or to reserve an audition time contact <a href="mailto:adam@corbettchildrenstheater.com" title="adam@corbettchildrenstheater.com">Adam Bertsch.</a>
+                
+               </p>
+               <br>
+              <h4 class="fade-in underline boom"><a href="#" data-reveal-id="myModal-audi">Before Your Audition!</a></h4>
+                <div id="myModal-audi" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                  <h4 class="underline boom">Before Your Audition!</h4>
+                    <p style="margin-left:15px;">
+                      &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Please come prepared with a monologue (a short piece of dialogue that is memorized) for your audition. <a href="http://stageagent.com/monologues" target="_blank">  stageagent.com</a> is a good resource for monologues.
+                                         
+                    <ul>
+                      <li><span class="underline">Examples:</span></li>
+                      <li><span class="strong">4-9 years old:</span> a Dr. Seuss poem, a joke, or a short 30 second monologue.</li>
+                      <li><span class="strong">10-18 years old:</span> 1 minute to 2 minute long monologue.</li>
+                    </ul>           
+                   
+                       &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="forms/WonderfulLifeActorAuditionForm.pdf" target="_blank">Click here to print an audition form</a> for It's a Wonderful Life: A Live Radio Play.  <br>
+                       &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;See below for a few pointers on <span class="strong">what not to do</span> at an audition and <a href="tips.php">a few tips</a> on how to increase your odds of success and improve your skills in the theater arts.
+                    </p>         
+                     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                </div>
+            </div>
+            <div class="large-5 medium-5 small-12 columns group">
+              
+              <br>
+              <h3 class="strong boom underline">Audition Info</h3>
+              <ul>
+                <li class="boom"><span class="strong">Date/Time:</span>
+                  <ul>
+                    <li> Monday, September 28 ~ 5:00 - 9:00 pm</li>
+                    <li>Tuesday, September 29 ~ 5:30 - 9:00 pm</li>
+                  </ul>
+                <li class="boom"><span class="strong">Place:</span>  27000 SE Stark St, Troutdale, OR 97060</li>
+                <li class="boom"><span class="strong">Ages:</span>  4th - 12th grade</li>
+                <li class="boom"><span class="strong">Production Dates:</span>  Showing This December</li>
+                <li class="boom"><span class="strong">Production Manager:</span>  <a href="mailto:adam@corbettchildrenstheater.com" title="adam@corbettchildrenstheater.com">Adam Bertsch</a></li>
+                <li class="boom"><span class="strong">Directed by:</span> Angel Williams</li>
+              </ul>
+              
+            </div>
 
-            Auditions will be a little over a week later on Monday September 28th and Tuesday September 29th. Times TBA</p>
         </div>
-        <div class="large-5 medium-5 small-12 columns group">
-          
-          <br>
-          <h3 class="strong boom underline">Audition Info</h3>
-          <br>
-
-          <ul>
-            <li class="boom"><span class="strong">Date:</span> Saturday, September 19</li>
-            <li class="boom"><span class="strong">Time:</span>  5:30 - 6:30pm</li>   
-            <li class="boom"><span class="strong">Place:</span>  27000 SE Stark St, Troutdale, OR 97060</li>
-            <li class="boom"><span class="strong">Ages:</span>  4th - 12th grade</li>
-            <li class="boom"><span class="strong">Production Dates:</span>  Coming In December</li>
-            <li class="boom"><span class="strong">Contact:</span>  <h5>Contact:  <a href="mailto:adam@corbettchildrenstheater.com" title="adam@corbettchildrenstheater.com">Adam Bertsch</a> for more details</h5> for production/audition inquiries.</li>
-            <li class="boom"><span class="strong">Directed by:</span> Angel Williams</li>
-          </ul>
-         
-        </div>
-
-      </div>
     </div>
   
   	<br>
     <br>
     
-      <div class="large-8 medium-8 small-10 columns medium-centered large-centered small-centered panel">
+      <div class="large-8 medium-8 small-10 columns medium-centered large-centered small-centered panel" id="nono">
       	<br>
           <h3 id="h1-cent" class="underline">Things Not to Do at an Audition</h3>
           <br>
