@@ -9,7 +9,7 @@ include('incl/header.php'); ?>
 					<hr class="stylee4">
 					<br>
 					<div class="banner-bg" style="text-align:center;width:100%;">
-						<img src="img/CCT-goodbanner-1.jpg" alt="coolest broken banner" style="max-height:350px;width:auto;">
+						<img src="img/CCT-goodbanner-1.jpg" alt="coolest broken banner" style="max-height:300px;width:auto;">
 					</div>	
 				
 			</header>
