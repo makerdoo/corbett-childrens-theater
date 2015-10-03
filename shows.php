@@ -6,7 +6,7 @@ include('incl/header.php'); ?>
 			
 			<header>
 					<hr class="stylee4">
-					<br>
+					
 					<div class="banner-bg" style="text-align:center;min-width:100%;">
 						<img src="img/CCT-goodbanner-2.jpg" alt="coolest broken banner" style="max-height:300px;width:auto;">
 					</div>	
@@ -22,7 +22,11 @@ include('incl/header.php'); ?>
 				<div class="large-10 medium-10 small-10 columns medium-centered large-centered small-centered panel group" style="border: 1px double #333;">
 					<h2 class="important">Coming in November</h2>
 					<br>
-					<img class="centered-img" src="img/seussical-sm.jpg" alt="Seussical the Musical Banner">	
+					<row>
+						<div class="large-4 medium-4 small-4 columns medium-centered large-centered small-centered">
+							<a href="img/posters/SeussicalPoster.jpg"><img class="centered-img" src="img/posters/SeussicalPoster-med.jpg" alt="Seussical the Musical Banner"></a>
+						</div>
+					</row>	
 					<span class="boom"><h4 class="strong">Seussical the Musical!</h4><h5 class="strong">Directed by: Liz Bertsch & Kathy Johnson</h5></span>
 						<ul id="show-dates">
 							<li class="boom"><h5>November 5th, 6th, 7th & 12th, 13th, 14th</h5></li>

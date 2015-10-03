@@ -7,8 +7,7 @@ include('incl/header.php'); ?>
 			<header>
 					
 					<hr class="stylee4">
-					<br>
-					<div class="banner-bg" style="text-align:center;width:100%;">
+					    <div class="banner-bg" style="text-align:center;width:100%;">
 						<img src="img/CCT-goodbanner-1.jpg" alt="coolest broken banner" style="max-height:300px;width:auto;">
 					</div>	
 				
@@ -20,15 +19,15 @@ include('incl/header.php'); ?>
 					<div class="small-12 medium-12 large-4 columns group" data-equalizer-watch>
 						<br>
 						<hr class="drk-blue">
-						<h2>We are excited to announce our upcoming productions!</h2>
+						<h3>We are excited to announce our upcoming productions!</h3>
 						<br>
 						
 						<ul class="boom">
-							<li class="boom"><h4><a href="shows.php#november" class="strong">November production:</a> Seussical the Musical!</h4><h5>Directed by: Liz Bertsch & Kathy Johnson</h5></li>
+							<li class="boom"><h5><a href="shows.php#november" class="strong">November production:</a> Seussical the Musical!</h5><p>Directed by: Liz Bertsch & Kathy Johnson</p></li>
 							<a class="boom strong fade-in" href="auditions.php" target="_self">Audition Info</a>
 							<br>
 							<br>
-							<li class="boom"><h4><a href="shows.php#december" class="strong">December production:</a> It's a Wonderful Life, A Live Radio Play </h4><h5>Directed by: Angel Williams</h5></li>
+							<li class="boom"><h5><a href="shows.php#december" class="strong">December production:</a> It's a Wonderful Life, A Live Radio Play </h5><p>Directed by: Angel Williams</p></li>
 							<a class="boom strong fade-in" href="auditions.php#wonderful" target="_self">Audition Info</a>
 						</ul>
 						<hr class="drk-blue">
@@ -41,11 +40,11 @@ include('incl/header.php'); ?>
 						<a href="#" data-reveal-id="myModal-123">
 							<img class="centered-img" src="img/seussical-sm.jpg" alt="Seussical the Musical Banner">
 							<br>
-						<h3 class="boom underline">Seussical The Musical!</h3>
-							<h4>A strange and fantastic red-and-white striped top hat appears on an empty stage, full of possibilities.<br><br> A Boy enters and is drawn toward the magical hat.<br><br> The Cat in the Hat suddenly materializes!
+						<h4 class="boom underline">Seussical The Musical!</h4>
+							<h5>A strange and fantastic red-and-white striped top hat appears on an empty stage, full of possibilities.<br><br> A Boy enters and is drawn toward the magical hat.<br><br> The Cat in the Hat suddenly materializes!
 							<br>
 							<br>
-							<span style="color:rgb(80, 215, 254)">[...]</span></h4></a>	      			
+							<span style="color:rgb(80, 215, 254)">[...]</span></h5></a>	      			
 			    		
 						<br>	
 					</div>
@@ -60,14 +59,14 @@ include('incl/header.php'); ?>
 					<div class="small-12 medium-12 large-4 columns group" data-equalizer-watch >
 						<hr class="drk-blue">
 						<a href="#" data-reveal-id="myModal-2">
-					 	<h2 class="boom">Volunteer</h2>
+					 	<h3 class="boom">Volunteer</h3>
 					 
-					 	<h3 class="boom">Make a difference at CCT!</h3>
+					 	<h4 class="boom">Make a difference at CCT!</h4>
 					 	<br>
-		      			<h4>If you have time and skills (or a desire to learn) we can use you,<br> adult or student!  Volunteer to help with a production...
+		      			<h5>If you have time and skills (or a desire to learn) we can use you,<br> adult or student!  Volunteer to help with a production...
 		      			<br>
 		      			<br>
-		      			<br><span style="color:rgb(80, 215, 254)">[learn more]</span></h4></a>
+		      			<br><span style="color:rgb(80, 215, 254)">[learn more]</span></h5></a>
 			    		<hr class="drk-blue">
 					</div>
 
@@ -103,9 +102,9 @@ include('incl/header.php'); ?>
             <div class="row" data-equalizer>
             	<div class="small-12 medium-4 large-4 columns">
             		<div class="panel" data-equalizer-watch style="text-align:center;">
-			      		<h2>CCT is committed to</h2>
+			      		<h3>CCT is committed to</h3>
 											
-							<h3 class="fade-in"><a href="#" data-reveal-id="myModal-nurt">Nurturing</a></h3>
+							<h4 class="fade-in"><a href="#" data-reveal-id="myModal-nurt">Nurturing</a></h4>
 							<div id="myModal-nurt" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 								<h1>Nurturing</h1>
                          <p>CCT exists for the youth of eastern Multnomah County.  Period. It doesn&#39;t get any more basic than that.</p>
@@ -120,7 +119,7 @@ include('incl/header.php'); ?>
 							<a class="close-reveal-modal" aria-label="Close">&#215;</a>
 						    </div>
 
-							<h3 class="fade-in"><a href="#" data-reveal-id="myModal-inst">Instructing</a></h3>
+							<h4 class="fade-in"><a href="#" data-reveal-id="myModal-inst">Instructing</a></h4>
 							<div id="myModal-inst" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 
 							<h1>Instructing</h1>
@@ -134,7 +133,7 @@ include('incl/header.php'); ?>
 								<a class="close-reveal-modal" aria-label="Close">&#215;</a>
 						    </div>
 
-							<h3 class="fade-in"><a href="#" data-reveal-id="myModal-dev">Developing</a></h3>
+							<h4 class="fade-in"><a href="#" data-reveal-id="myModal-dev">Developing</a></h4>
 							<div id="myModal-dev" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 								<h1>Developing</h1>
                          <p>What do theater kids learn? You might be surprised to learn that the primary things kids learn in a children’s theater are life skills like Teamwork, Problem Solving, Focus, and the Ability to Meet Deadlines.  Sure they learn to sing, dance, and act, and those are useful skills, but the ability to think on your feet and confidently face a room full of people are skills that every individual can benefit from.</p>
@@ -145,7 +144,7 @@ include('incl/header.php'); ?>
 
 							 and 
 
-							<h3 class="fade-in"><a href="#" data-reveal-id="myModal-promo">Promoting</a></h3>
+							<h4 class="fade-in"><a href="#" data-reveal-id="myModal-promo">Promoting</a></h4>
 							<div id="myModal-promo" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
 								<h1>Promoting</h1>
                          <p>... Literacy in the East County.  A theatre arts education gets kids reading! Perhaps your child becomes interested because they love the fantasy of Tom Sawyer, Pippi Longstocking, or Charlette’s Web, but over time they are introduced to Charles Dickens (Oliver!, A Christmas Carol), and Victor Hugo (Les Miserables) or George Orwell (Animal Farm) and in the process they discover that reading is fun and can open new worlds of possibilities to them!</p>
@@ -154,7 +153,7 @@ include('incl/header.php'); ?>
 								<a class="close-reveal-modal" aria-label="Close">&#215;</a>
 						    </div>
 						    
-							<h4>the youth of Eastern Multnomah county.</h4>
+							<h5>the youth of Eastern Multnomah county.</h5>
 							<br />
 							<p>Click above to learn more about how CCT uses the theatre to develop the youth of our community.</p>
 		                
@@ -164,9 +163,8 @@ include('incl/header.php'); ?>
 			    <div class="large-8 medium-8 small-12 columns" style="text-align:center;">
 
 			      	<div class="panel"  data-equalizer-watch style="text-align:center;">
-			      		<br>
-						
-						<h2>Special Announcement from Our Artistic Director</h2>
+			      								
+						<h3 style="text-decoration:underline;">Special Announcement from Our Artistic Director</h3>
 						<p>
 		                Have you ever had something you needed to do… but you just kept avoiding the task?
 
@@ -176,11 +174,10 @@ include('incl/header.php'); ?>
 
 						But here they are: <span style="font-weight:900;">This coming fall may well cue the…</span></p>
 
-             			<h3><a href="donate.php#specialnews" class="boom" target="_self" style="text-align:center;"><span style="color:rgb(80, 215, 254)">Learn More</span></a></h3>
+             			<h4><a href="donate.php#specialnews" class="boom" target="_self" style="text-align:center;"><span style="color:rgb(80, 215, 254)">Learn More</span></a></h4>
              			<br />
-		                <h3>Help Provide Opportunities for the Youth of Eastern Multnomah County.</h3>
-		                <br />
-
+		                <h4>Help Provide Opportunities for the Youth of Eastern Multnomah County.</h4>
+		               
 		                <a href='https://www.givlet.org/donate/e0gi/' class='on-checkout'> <img src='https://ordernow_prod.s3.amazonaws.com/img/TheGivletButton.png' /> </a> <script type='text/javascript' src='https://ordernow_prod.s3.amazonaws.com/js/givlet-widget-latest.js'> </script>
 		                <br>
 		                

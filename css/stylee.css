@@ -690,6 +690,15 @@ img#upcoming-poster  {
 
 }
 
+a.anchor-pic img {
+
+	background-color: #424242;
+	left:50%;
+	height:25%;
+	vertical-align: center;
+	width:auto;
+}
+
 
 .shrink2fit  {
 	 width:50%;

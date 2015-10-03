@@ -6,9 +6,9 @@ include('incl/header.php'); ?>
 			
 			<header>
 					<hr class="stylee4">
-					<br>
+					
 					<div class="banner-bg" style="text-align:center;min-width:100%;">
-						<img src="img/Oliver/oliver(7).jpg" alt="coolest broken banner" style="max-height:380px;width:auto;">
+						<img src="img/Oliver/oliver(7).jpg" alt="coolest broken banner" style="max-height:300px;width:auto;">
 					</div>	
 				
 			</header>
