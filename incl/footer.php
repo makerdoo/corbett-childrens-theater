@@ -1,5 +1,5 @@
 
-		<div class="footer-banner">
+		<div class="footer-banner fade-out">
 			  <h2>Previous Productions</h2>
 		      <h3>Since it came into being in 1998 CCT has produced full scale theatrical productions of a wide variety of musicals, plays, and even some video production 
 			  opportunities!</h3>
